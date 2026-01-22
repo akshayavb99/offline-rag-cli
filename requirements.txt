@@ -1,0 +1,16 @@
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+pypdf
+pymupdf
+chromadb
+uuid
+scikit-learn
+numpy
+pandas
+typing
+sentence-transformers
+tqdm
+ollama
+dotenv
