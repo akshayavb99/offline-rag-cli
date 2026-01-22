@@ -28,7 +28,7 @@ The project structure follows a modular design covering:
 ### Prerequisites
 
 1. **Docker Desktop** installed and running
-2. **Ollama** installed locally
+2. **Ollama** running on Docker container
 3. **Git Bash** (or any terminal with shell support)
 
 ### Project Setup
