@@ -29,7 +29,8 @@ The project structure follows a modular design covering:
 
 1. **Docker Desktop** installed and running
 2. **Ollama** running on Docker container
-3. **Git Bash** (or any terminal with shell support)
+3. **Git Bash**
+4. **.env** file with required environemnt variables. Refer to `.env.example` for a sample
 
 ### Project Setup
 
@@ -53,6 +54,12 @@ Start the RAG assistant CLI:
 
 ```bash
 python -m main
+```
+
+If you want to embed new or updated documents:
+
+```bash
+python -m main --reindex
 ```
 
 Follow the prompts:
