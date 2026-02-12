@@ -11,5 +11,6 @@ wheels/
 .env
 
 # Data directory contents
-data/
+data/*
 !data/.gitkeep
+!/data/vector_store/.gitkeep
